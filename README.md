@@ -39,43 +39,26 @@ I combine clean code with strong UX principles to create fast and intuitive digi
 
 ##  Featured Projects
 
-### 🛒 4YA Store
+- 🛒 **[4YA Store](https://github.com/maasch/4ya_store)** — Modern full-stack e-commerce platform with a Python recommendation system using collaborative filtering, content-based, and hybrid algorithms.
 
-Modern full-stack e-commerce platform with a real-world **Python recommendation system** using collaborative filtering, content-based, and hybrid algorithms.
-🔗 https://github.com/maasch/4ya_store
+- 🧭 **[CookCompass](https://github.com/maasch/cookcompass)** — Recipe discovery PWA powered by the Spoonacular API with intelligent search, bookmarks, and offline capability.
 
-### 🧭 CookCompass
+- 🌤 **[Weather App](https://github.com/maasch/Weather-App)** — Full-stack weather application with authentication, 5-day forecasts, marine data, and city images.
 
-Modern **recipe discovery PWA** powered by the Spoonacular API with intelligent search, bookmarks, and offline capability.
-🔗 https://github.com/maasch/cookcompass
+- 🎬 **[Bright TV](https://github.com/maasch/Bright-TV)** — Movie & TV search platform powered by TMDB and OMDB APIs with trending feeds and advanced search.
 
-### 🌤 Weather App
+- 📝 **[Codex](https://github.com/maasch/codex)** — Real-time Markdown previewer with a line-numbered editor and GitHub Flavored Markdown support.
 
-Full-stack weather application with **authentication, 5-day forecasts, marine data, and city images**.
-🔗 https://github.com/maasch/Weather-App
-
-### 🎬 Bright TV
-
-Movie & TV search platform powered by **TMDB and OMDB APIs** with trending feeds and advanced search.
-🔗 https://github.com/maasch/Bright-TV
-
-### 📝 Codex
-
-Lightweight **real-time Markdown previewer** with line-numbered editor and GitHub-flavored Markdown support.
-🔗 https://github.com/maasch/codex
-
-### 🐬 Devil Dolphin Memory
-
-Responsive **memory card game** with dynamic levels, statistics tracking, and LocalStorage persistence.
-🔗 https://github.com/maasch/Devil_dolphin_memory
+- 🐬 **[Devil Dolphin Memory](https://github.com/maasch/Devil_dolphin_memory)** — Responsive memory card game with dynamic levels, live stats, and LocalStorage persistence.
 
 ---
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=maasch&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maasch&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maasch&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maasch&layout=compact&theme=tokyonight"/>
 </p>
+
 ## Connect With Me
 
 <p align="center">
