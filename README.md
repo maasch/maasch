@@ -52,13 +52,6 @@ I combine clean code with strong UX principles to create fast and intuitive digi
 - 🐬 **[Devil Dolphin Memory](https://github.com/maasch/Devil_dolphin_memory)** — Responsive memory card game with dynamic levels, live stats, and LocalStorage persistence.
 
 ---
-## GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maasch&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maasch&layout=compact&theme=tokyonight"/>
-</p>
-
 ## Connect With Me
 
 <p align="center">
