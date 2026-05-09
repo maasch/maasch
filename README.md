@@ -1,4 +1,4 @@
-# Hi 👋 I'm Adel
+# Hi 👋 I'm Adel 🐙
 
 <p align="center">
 Frontend Developer • UI/UX Designer • Digital Marketing Student
