@@ -10,9 +10,9 @@ I combine clean code with strong UX principles to create fast and intuitive digi
 </p>
 
 <p align="center">
-### 🎓 Digital Marketing & User Experience — Higher School of Technology (EST) Dakhla  <br>
-### 💡 Passionate about web performance, UX design, and modern frontend development  <br>
-### 📫 Contact: <a href="mailto:adelmaach15@gmail.com">adelmaach15@gmail.com</a>
+- **🎓 Digital Marketing & User Experience — Higher School of Technology (EST) Dakhla**  <br>
+- **😶‍🌫️ Passionate about web performance, UX design, and modern frontend development**  <br>
+- **✉️ Contact: <a href="mailto:adelmaach15@gmail.com">adelmaach15@gmail.com</a>**
 </p>
 
 ---
